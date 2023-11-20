@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+    overflow: hidden;
+  }
+  
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; /* Adjust height as needed */
+  }
+  
+  .center-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-top: 20px; /* Adjust margin as needed */
+  }
+  
+  .title {
+    font-size: 28px;
+    margin-bottom: 30px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .button {
+    background-color: rgb(181, 134, 13);
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 200px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+    overflow-y: auto;
+    max-height: 120px;
+  }
+  
+  .dropdown-content a {
+    display: block;
+    padding: 8px 12px;
+    text-decoration: none;
+    color: black;
+    white-space: normal;
+  }
+  
+  .dropdown-content a:hover {
+    background-color: #f1f1f1;
+  }
+
+  /* New styles for the GIF container and change track button */
+.gif-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    z-index: 1;
+  }
+  
+  .gif-container img {
+    max-width: 100%;
+    height: auto;
+  }
+
+  
+  .change-track-btn {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    display: none;
+    background-color: #ffffff;
+    color: black;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    border-radius: 20px;
+  }
+
+  /* New style for fading in the GIF */
+@keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  
+  .gif-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+/* Additional styles for the campfire image */
+.campfire-image {
+    text-align: center;
+    margin-top: 20px; 
+  }
+
+/* Animation for fade-in effect */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+/* Applies fade-in animation to the title */
+.title {
+  font-family: 'Montserrat', sans-serif;
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards; /* Animation for 1 second */
+}
+
+.change-track-btn fadeIn {
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }}
+
+/* Applies fade-in animation to the change track button */
+.change-track-btn {
+  opacity: 0;
+  animation: fadeIn 1s ease-in-out forwards; /* Animation for 1 second */
+}
