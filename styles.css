@@ -12,7 +12,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    height: 100vh; /* Adjust height as needed */
+    height: 100vh;
   }
   
   .center-content {
@@ -20,7 +20,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 20px; /* Adjust margin as needed */
+    margin-top: 20px;
   }
   
   .title {
@@ -152,3 +152,13 @@ body {
   opacity: 0;
   animation: fadeIn 1s ease-in-out forwards; /* Animation for 1 second */
 }
+
+ /* Additional styles for positioning */
+ .github-logo {
+  position: fixed;
+  bottom: 20px;
+  right: 30px;
+  z-index: 9999;
+  font-size: 30px;
+  color: white;
+ }
