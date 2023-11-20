@@ -50,6 +50,7 @@ Contributions are welcome! To contribute:
 + [**Font Awesome**](https://fontawesome.com) for the GitHub icon.
 + [**C418**](https://twitter.com/C418?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for the iconic soundtrack <3.
 + [**KHInsider**](https://downloads.khinsider.com/game-soundtracks/album/minecraft) for the .MP3 downloads.
++ [**Minecraft Wiki**](https://minecraft.fandom.com/wiki/Campfire) for the campfire GIF.
 
 ## License
 This project is licensed under the [**MIT License**](LICENSE).
