@@ -1,4 +1,7 @@
-# CraftyTunes
+![Logo](https://cdn.discordapp.com/attachments/892836872118763543/1176585239146016850/CraftyTunes-Logo.png?ex=656f6764&is=655cf264&hm=9124e35a7b96d4e51af158695b9321b4393061ad3a5b8e704f01821133366851&)
+
+# [⚒ CraftyTunes ⚒](https://inttter.github.io/CraftyTunes/#)
+
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square)](https://github.com/inttter/CraftyTunes/blob/main/LICENSE) 
 [![Last Commit](https://img.shields.io/github/last-commit/inttter/CraftyTunes?style=flat-square)](https://github.com/inttter/PetTheCat/commits/main)
@@ -12,7 +15,7 @@ Do you find solace in the nostalgia of Minecraft's original soundtrack? **Crafty
 
 **CraftyTunes** includes Minecraft's iconic Volume Alpha and Beta soundtrack(s). Not to mention, a little Minecraft campfire to keep you company!
 
-## Features
+## 📃 Features 📃
 + **Track Selection** - Select from any song form the Minecraft Alpha and Beta Soundtrack via dropdown menu.
 
 + **Seamless Song Switching** - Tired of the song you're listening to? Switch seamlessly via the dropdown menu.
@@ -22,7 +25,7 @@ Do you find solace in the nostalgia of Minecraft's original soundtrack? **Crafty
  ##### [Preview Image](https://cdn.discordapp.com/attachments/892836872118763543/1176279400854065162/PreviewMC.jpg?ex=656e4a8f&is=655bd58f&hm=d13625812f19b36f887e7f0ab8113bb3707b0d884b62f108c76fefe6decb8feb&)
 ---
 
-## Technologies Used:
+## 💻 Technologies Used: 💻
 CraftyTunes was built with:
 
 + HTML
@@ -30,7 +33,7 @@ CraftyTunes was built with:
 + JavaScript
 + [GitHub Pages](https://pages.github.com)
 
-## Contributing
+## 📗 Contributing 📗
 Contributions are welcome! To contribute:
 
 **1.** Fork the repository.
@@ -45,15 +48,15 @@ Contributions are welcome! To contribute:
 
 **5.** Create a new Pull Request.
 
-## Acknowledgements
+## 🏆 Acknowledgements 🏆
 
 + [**Font Awesome**](https://fontawesome.com) for the GitHub icon.
 + [**C418**](https://twitter.com/C418?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor) for the iconic soundtrack <3.
 + [**KHInsider**](https://downloads.khinsider.com/game-soundtracks/album/minecraft) for the .MP3 downloads.
 + [**Minecraft Wiki**](https://minecraft.fandom.com/wiki/Campfire) for the campfire GIF.
 
-## License
+## 📚 License 📚
 This project is licensed under the [**MIT License**](LICENSE).
 
-## Buy me a Coffee!
+## 🍵 Buy me a Coffee! 🍵
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/intter)
