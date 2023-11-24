@@ -1,3 +1,5 @@
+<div align="center">
+
 ![Logo](https://cdn.discordapp.com/attachments/892836872118763543/1176585239146016850/CraftyTunes-Logo.png?ex=656f6764&is=655cf264&hm=9124e35a7b96d4e51af158695b9321b4393061ad3a5b8e704f01821133366851&)
 
 # [⚒ CraftyTunes ⚒](https://inttter.github.io/CraftyTunes/#)
@@ -60,3 +62,5 @@ This project is licensed under the [**MIT License**](LICENSE).
 
 ## 🍵 Buy me a Coffee! 🍵
 [![Support me on Ko-fi](https://img.shields.io/badge/Support%20me%20on-Ko--fi-FF5E5B?style=flat-square&logo=ko-fi&logoColor=white)](https://ko-fi.com/intter)
+
+</div>
